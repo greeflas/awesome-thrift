@@ -4,22 +4,17 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Documentation](#documentation)
+- [Tools](#tools)
 
-## Section
+## Documentation
 
-About this section. Optional. Keep this short and focus on the list.
+- [Official website](https://thrift.apache.org/) - Official documentation, libraries and code examples.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Tools
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Thrift API UI](https://github.com/alfa-laboratory/thrift-api-ui) - An open-source tool for Thrift API development.
+- [thriftlint](https://github.com/UrbanCompass/thriftlint) - An extensible linter.
 
 ## Contribute
 
