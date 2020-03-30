@@ -6,6 +6,7 @@
 
 - [Documentation](#documentation)
 - [Tools](#tools)
+- [Plugins](#plugins)
 
 ## Documentation
 
@@ -15,6 +16,10 @@
 
 - [Thrift API UI](https://github.com/alfa-laboratory/thrift-api-ui) - An open-source tool for Thrift API development.
 - [thriftlint](https://github.com/UrbanCompass/thriftlint) - An extensible linter.
+
+## Plugins
+
+- [Thrift Support](https://plugins.jetbrains.com/plugin/7331-thrift-support) - Plugin for IDEs based on IntelliJ IDEA.
 
 ## Contribute
 
