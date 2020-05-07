@@ -20,6 +20,7 @@
 ## Plugins
 
 - [Thrift Support](https://plugins.jetbrains.com/plugin/7331-thrift-support) - Plugin for IDEs based on IntelliJ IDEA.
+- [Thrift](https://marketplace.visualstudio.com/items?itemName=cduruk.thrift&ssr=false#overview) - Extension for Visual Studio Code, adds very basic syntax coloring for Thrift IDL files.
 
 ## Contribute
 
