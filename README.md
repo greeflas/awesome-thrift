@@ -16,6 +16,7 @@
 ## Tools
 
 - [Thrift API UI](https://github.com/alfa-laboratory/thrift-api-ui) - An open-source tool for Thrift API development.
+- [ThriftCLI](https://github.com/Fitbit/thriftcli) - CLI tool for executing RPC's via the Thrift protocol.
 - [thriftlint](https://github.com/UrbanCompass/thriftlint) - An extensible linter.
 
 ## Plugins
