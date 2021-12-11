@@ -4,14 +4,15 @@
 
 ## Contents
 
-- [Documentation](#documentation)
+- [Official](#official)
 - [Tools](#tools)
 - [Plugins](#plugins)
 - [Community](#community)
 
-## Documentation
+## Official
 
-- [Official website](https://thrift.apache.org/) - Official documentation, libraries and code examples.
+- [Website](https://thrift.apache.org/)
+- [Repository](https://github.com/apache/thrift)
 
 ## Tools
 
